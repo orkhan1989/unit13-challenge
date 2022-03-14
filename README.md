@@ -8,7 +8,7 @@ As a digital transformation consultant by one of the most famous retirement plan
 
 packages used to implement 
 
-AMAZON LEX 
+AMAZON LEX ,
 AMAZON LAMBDA
 
 
